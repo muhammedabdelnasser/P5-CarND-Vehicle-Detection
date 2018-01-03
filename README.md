@@ -124,7 +124,7 @@ The model is then converted for detection. This is done by adding 3 convolutiona
 
 The pre-trained weights for this model (180 MB) are available [here](https://www.dropbox.com/s/92ab1504jctuva7/yolo-tiny.weights?dl=0).
 
-![png](yolo.png)
+![png](output_images/yolo.png)
 
 ## Post Processing
 
@@ -158,7 +158,7 @@ Testing
 
 The pipeline is applied to individual images. Here is the result.
 
-![png](test_output.png)
+![png](output_images/test_output.png)
 
 The Video
 ---
